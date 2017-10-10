@@ -1,6 +1,6 @@
 This repository explores how to push a deep learning model to the limits with little data. In particular, I look at model architecture, data augmentation and pseudo-labeling.
 
-You can read more about the approach I take [here](...).
+You can read more about the approach I take [here](https://medium.com/@radekosmulski/beating-the-state-of-the-art-from-2013-with-5-of-data-without-using-transfer-learning-301faf624fb6).
 
 To run the code:
 
